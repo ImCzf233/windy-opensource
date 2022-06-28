@@ -1,6 +1,9 @@
 ## windy-opensource
-Leaked by ImCzf#2333 & Dimples#1337
-New China rat source has been leaked.  A Suck client based on emptiness client.
 
-They for suck netty buffer more works but skid form Flux Client
+this client is created by PRO, but is based on emptiness, and emptiness based on romantic
+
+This source code has leaked by ImCzf#2333 & Dimples#1337
+
+Already Eclispe ready but must use Netty4.1 because this client's netty PacketBuffer is skid form flux client
+
 L
